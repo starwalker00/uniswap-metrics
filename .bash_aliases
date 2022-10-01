@@ -18,6 +18,10 @@ function pip_list {
   pip freeze
 }
 
-function run {
-  python3 main.py
+function run_uniswapy {
+  python3 main_uniswapy.py
+}
+
+function run_alchemy {
+  python3 main_alchemy.py
 }

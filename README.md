@@ -7,6 +7,9 @@ Run ```source bash_aliases``` to get easy access to the commands described in ba
 
 ## links
 
+uniswap-python :
+- https://uniswap-python.com/getting-started.html
+
 5afe token ERC-20 contract :
 - https://etherscan.io/token/0x5afe3855358e112b5647b952709e6165e1c1eeee
 

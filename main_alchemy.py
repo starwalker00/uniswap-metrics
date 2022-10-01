@@ -7,7 +7,7 @@ from web3 import Web3
 def main():
     print("main()")
     load_dotenv()
-    alchemy_url = os.environ['HTTP_PROVIDER_URL']
+    alchemy_url = os.environ['PROVIDER']
     w3 = Web3(Web3.HTTPProvider(alchemy_url))
     print(w3.isConnected())
 
